@@ -4,4 +4,4 @@ stock file contains the Twitter data preprocessing, and how we get our weighted 
 
 stock2 file contains stock data preprocessing
 
-finalstock3 file contains Random Forest Model running 
+Finalstock file contains Random Forest Model running 
