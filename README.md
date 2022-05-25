@@ -10,7 +10,7 @@ GRAPH is the final result and visualization
 
 AMZN stock is the AMZN historical stock data
 
-AMZN Twitter is the AMZN Twitter dataset thoughout 2021 which is harvested using Twint:
+AMZN Twitter is the AMZN Twitter dataset (unzip it when using) thoughout 2021 which is harvested using Twint:
 https://github.com/twintproject/twint
 
-if you want to use it, please unzip it
+
