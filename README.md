@@ -7,3 +7,7 @@ stock2 file contains stock data preprocessing
 Finalstock file contains Random Forest Model running 
 
 GRAPH is the final result and visualization
+
+AMZN stock is the AMZN historical stock data
+
+AMZN Twitter is the AMZN Twitter dataset thoughout 2021 which is harvested using Twint:
