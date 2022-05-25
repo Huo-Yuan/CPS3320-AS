@@ -12,4 +12,5 @@ AMZN stock is the AMZN historical stock data
 
 AMZN Twitter is the AMZN Twitter dataset thoughout 2021 which is harvested using Twint:
 https://github.com/twintproject/twint
+
 if you want to use it, please unzip it
